@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">binaryWork</string>
+    <string-array name="operator">
+        <item>+ (addition)</item>
+        <item>- (subtraction)</item>
+        <item>* (multiplication)</item>
+        <item>/ (division)</item>
+    </string-array>
+</resources>
